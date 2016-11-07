@@ -12,7 +12,6 @@ h1 {
 }
 
 section {
-    background-color: #808080;   
     clear: both;
     padding: 15px;
 }
@@ -20,6 +19,7 @@ section {
 .container{
   border: 1px solid black;
   margin-bottom: 24px;
+  background-color: #808080; 
 }
 
 .section_title {
